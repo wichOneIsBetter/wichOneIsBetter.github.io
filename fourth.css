@@ -1,0 +1,56 @@
+body{
+
+}
+
+
+.le{position: absolute;
+    font-size: 50px;
+    left: 100px;
+    top: 100px;
+    color: aliceblue;
+
+}
+
+.ko{
+    position: absolute;
+    font-size: 50px;
+    left: 100px;
+    bottom: 120px;
+    color: aliceblue;
+}
+
+.upper button{position: absolute;
+    height: 50%;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    background: linear-gradient(to right, rgb(137, 28, 28), rgb(211, 16, 16));
+}
+
+
+.upper :hover{
+    cursor: pointer;
+    border-color:yellow ;
+}
+
+
+
+
+
+.lower button{position: absolute;
+    height: 50%;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    
+    background: linear-gradient(to right, rgb(54, 51, 202), rgb(49, 122, 178));
+}
+
+
+.lower :hover{
+    cursor: pointer;
+    border-color:yellow ;
+}
+
+
+

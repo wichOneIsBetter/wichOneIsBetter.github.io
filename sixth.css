@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, red, blue);
+}
+
+
+
+
+.im{
+    position:absolute;
+    left:100px;
+    top: 30%;
+    height: 200px;
+    width: 300px;
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+
+
+.bm{
+    color: blueviolet;
+    position: absolute;
+    top: 198px;
+    left: 200px;
+    height: 100px;
+    width: 120px;
+    font-size: 19px;
+}
