@@ -17,6 +17,7 @@ body{
     left: 150px;
     bottom: 70px;
     color: aliceblue;
+    width:200px;
 }
 
 .upper button{position: absolute;
